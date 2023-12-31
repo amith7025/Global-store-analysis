@@ -10,3 +10,7 @@
 #**CUSTOMERS INSIGHTS**
 
 ![Customers Insights](https://github.com/amith7025/Global-store-analysis/blob/main/Screenshot%202023-12-31%20114036.png)
+
+#**ORDER RETURN INSIGHTS**
+
+![Customers Insights](https://github.com/amith7025/Global-store-analysis/blob/main/Screenshot%202023-12-31%20114036.png)
